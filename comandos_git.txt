@@ -16,6 +16,9 @@ git add .
 git commit -m "versión de subida"
 (Es la versión que usted esta subiendo el repositorio)
 
+git remote add origin https://github.com/juanes117/MAQUETADO_WEB.git
+(Añade la url de su repositorio se hace y se ejecuta una única vez )
+
 git push -u origin main
 (Este empuja los cambios locales a la nube)
 
